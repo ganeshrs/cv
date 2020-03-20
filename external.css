@@ -10,3 +10,11 @@
 	width:5%;
 	align:center;
   }
+/* class selector */
+.image{
+	background-color:blue;
+	image-border:dotted;
+	image-border-color:red;
+	width:25%;
+	height:25%;
+}
